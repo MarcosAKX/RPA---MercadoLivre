@@ -31,3 +31,5 @@ with sync_playwright() as p:
     print(df)
 
     browser.close()
+
+#teste
